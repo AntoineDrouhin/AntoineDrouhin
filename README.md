@@ -1,6 +1,6 @@
 ### Hi, I am Antoine Drouhin 
 
-- 🤓 I'm a Software Engineer. Working
+- 🤓 I'm a Software Engineer. 
 - 👷‍♂️ I am currently working at [Tenable](https://www.tenable.com/) as a "Manager, Engineering"
 - 💽 My current field of action are APIs and Databases.
 - 👨‍💻 I love programming.
